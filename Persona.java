@@ -40,5 +40,9 @@ public class Persona implements java.io.Serializable
     public void setApellido(String apellido) { 
         this.apellido = apellido;
     }
+    
+    public void MostrarDatos(){
+    
+    }
 
 }
